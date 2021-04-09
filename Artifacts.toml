@@ -1,0 +1,106 @@
+[[beefalo]]
+arch = "aarch64"
+git-tree-sha1 = "6e6066e99eb440582c2660fbde806df14d3f747e"
+libc = "glibc"
+os = "linux"
+
+    [[beefalo.download]]
+    sha256 = "7910892c10ebe85812cc3039f72ecbe7995fe5803e6c2b62059599d15543bd30"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.aarch64-linux-gnu.tar.gz"
+[[beefalo]]
+arch = "aarch64"
+git-tree-sha1 = "97753e185a92381f96f44ca76d6c523a1ac98f75"
+libc = "musl"
+os = "linux"
+
+    [[beefalo.download]]
+    sha256 = "3d6a73191eb65ff01c7794e7404513af52de6aee6439cd4c38591a99eb3179f1"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.aarch64-linux-musl.tar.gz"
+[[beefalo]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4dbcc32d98810d28403b8b11ac9ac8824926422c"
+libc = "glibc"
+os = "linux"
+
+    [[beefalo.download]]
+    sha256 = "d947f5d2c96b62e00d6cf7f67808b9eb576cdffa9fdc98b19ce956d1145003fe"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.armv7l-linux-gnueabihf.tar.gz"
+[[beefalo]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "45fe0a27b1ff8f6908719bcf659117a6a48b471c"
+libc = "musl"
+os = "linux"
+
+    [[beefalo.download]]
+    sha256 = "112827463962cfa0a603a5b0c08d8a05c519dc9d8b33e86f49e4d0014ec9eb5e"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.armv7l-linux-musleabihf.tar.gz"
+[[beefalo]]
+arch = "i686"
+git-tree-sha1 = "d94646084c67a7b12fe74f3fb283b59bacd7f413"
+libc = "glibc"
+os = "linux"
+
+    [[beefalo.download]]
+    sha256 = "248666f9d44109f8530fd48c5860ce8cbd4357ea00f2ad23b3f34b1fed3b885c"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.i686-linux-gnu.tar.gz"
+[[beefalo]]
+arch = "i686"
+git-tree-sha1 = "b75598e1f6a22ac702a88b21ee6853af8ecf28ee"
+os = "windows"
+
+    [[beefalo.download]]
+    sha256 = "207fee45b76bb65d61da4a51fd407a0c05e42909b69d007cb6d08f709c32c7f2"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.i686-w64-mingw32.tar.gz"
+[[beefalo]]
+arch = "powerpc64le"
+git-tree-sha1 = "7bed248d42d527cb42fe9c9d3800683d749feda6"
+libc = "glibc"
+os = "linux"
+
+    [[beefalo.download]]
+    sha256 = "b36526bdb455112f635f246f01b1f89ede9862b3d4208d13e033bd8da6d0569b"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.powerpc64le-linux-gnu.tar.gz"
+[[beefalo]]
+arch = "x86_64"
+git-tree-sha1 = "fb78071a2bd948867c425cb5f3b54b5111557beb"
+os = "macos"
+
+    [[beefalo.download]]
+    sha256 = "9b0c159a69d84e6dd9690967ce62626cbd89a427cd5989da6ad21c7bf554fa3a"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.x86_64-apple-darwin.tar.gz"
+[[beefalo]]
+arch = "x86_64"
+git-tree-sha1 = "f15126d941f6e066f65a3646e432ff1ab04726c6"
+libc = "glibc"
+os = "linux"
+
+    [[beefalo.download]]
+    sha256 = "5c4821a9e02a2cbd9d2e48cbdf8852f361279f241150725cfad889ce6e78afda"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.x86_64-linux-gnu.tar.gz"
+[[beefalo]]
+arch = "x86_64"
+git-tree-sha1 = "061c63929ca234259d6de843b70312010c8a2d91"
+libc = "musl"
+os = "linux"
+
+    [[beefalo.download]]
+    sha256 = "e52bffc3615229bae903d532179cff06f2d67270eee07447f438258b4efa3dd9"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.x86_64-linux-musl.tar.gz"
+[[beefalo]]
+arch = "x86_64"
+git-tree-sha1 = "60cfb305fe8bbd6631a43f4edf324a83435dc661"
+os = "freebsd"
+
+    [[beefalo.download]]
+    sha256 = "b9e559d0edbc30156e09c6ca4b6fa0b14825ecc487fc90b6eb3d79152d7eb8f1"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.x86_64-unknown-freebsd.tar.gz"
+[[beefalo]]
+arch = "x86_64"
+git-tree-sha1 = "3d208db2bc28e26294ae87907c1716e5cf5d45a2"
+os = "windows"
+
+    [[beefalo.download]]
+    sha256 = "3cde43eadcc58fe71de1ffa82b9fbaebe40cba1923375c56c5126f0e92d18495"
+    url = "https://github.com/JuliaBinaryWrappers/beefalo_jll.jl/releases/download/beefalo-v1.35.0+0/beefalo.v1.35.0.x86_64-w64-mingw32.tar.gz"
